@@ -2,9 +2,9 @@
 
 # Hi, I’m Niko
 
-**AI product strategy · Agentic coding**
+**AI product strategy · Agentic coding · NSCA-CSCS**
 
-I build AI-native products, protocol-driven workflows, and public tools that turn ambiguity into shippable systems.
+目前是一名数字游民，致力于打造基于研究驱动、帮助身心健康与个人表现提升的 AI 产品。
 
 </div>
 
@@ -31,16 +31,3 @@ I build AI-native products, protocol-driven workflows, and public tools that tur
 - 🤖 [GMGNbotv6](https://github.com/Xmemo/AutoTrader.git) - Trading bot automation repo.
 
 ---
-
-## What I Focus On
-
-- AI product strategy and problem framing
-- Protocol-first build systems
-- Builder-friendly handoff structures
-- Research-to-product synthesis
-
----
-
-## Contact
-
-- GitHub: [Xmemo](https://github.com/Xmemo)
