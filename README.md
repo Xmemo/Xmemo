@@ -4,7 +4,7 @@
 
 **AI product strategy · Agentic coding · NSCA-CSCS**
 
-目前是一名数字游民，致力于打造基于研究驱动、帮助身心健康与个人表现提升的 AI 产品。
+Currently a digital nomad building research-driven AI products for well-being and personal performance.
 
 </div>
 
